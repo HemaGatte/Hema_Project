@@ -1,0 +1,21 @@
+*{
+    font-family: bahnschrift;
+}
+#footer 
+{  
+    background-color:rgb(255, 255, 0);
+border: solid;      
+}  
+#hvb   
+{   
+    box-shadow: h-offset v-offset blur 
+   /*box-shadow: 50px 10px 10px;   */
+}   
+#container{
+    margin: 0 25px;
+}
+#footer 
+{  
+    background-color:yellow;
+border: solid;      
+}  
